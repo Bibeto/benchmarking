@@ -19,7 +19,7 @@ cp <your_testing_dataset> dataset/test
 
 
 add your annotation files train.txt, test.txt and validation.txt 
-where the annotation file is with form : 
+where the annotation file is with the form : 
 image_name startX startY endX endY class
 
 

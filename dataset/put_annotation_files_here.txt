@@ -1,0 +1,2 @@
+Put annotation files here where image annotations are in this form : 
+image_name startX startY endX endY class
