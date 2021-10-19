@@ -14,7 +14,7 @@ cp <your_training_dataset> dataset/train
 
 cp <your_testing_dataset> dataset/test
 
-<your_validation_dataset> dataset/validation
+cp <your_validation_dataset> dataset/validation
 
 
 
